@@ -54,7 +54,7 @@ Feito para **iniciantes** e **usu\u00E1rios avan\u00E7ados** que preferem uma in
 
 <div align="center">
 
-*(Adicione aqui uma imagem da interface)*
+
 
 ![Screenshot do programa](Captura_de_tela_20260513_123311.png)
 
