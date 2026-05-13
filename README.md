@@ -56,7 +56,7 @@ Feito para **iniciantes** e **usuários avançados** que preferem uma interface 
 
 *(Adicione aqui uma imagem da interface)*
 
-![Screenshot do programa](screenshot.png)
+![Screenshot do programa](Captura_de_tela_20260513_123311.png)
 
 </div>
 
